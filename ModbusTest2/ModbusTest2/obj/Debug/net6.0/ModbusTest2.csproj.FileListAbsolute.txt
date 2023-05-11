@@ -1,0 +1,17 @@
+C:\Users\4039\source\repos\ModbusTest2\ModbusTest2\bin\Debug\net6.0\ModbusTest2.exe
+C:\Users\4039\source\repos\ModbusTest2\ModbusTest2\bin\Debug\net6.0\ModbusTest2.deps.json
+C:\Users\4039\source\repos\ModbusTest2\ModbusTest2\bin\Debug\net6.0\ModbusTest2.runtimeconfig.json
+C:\Users\4039\source\repos\ModbusTest2\ModbusTest2\bin\Debug\net6.0\ModbusTest2.dll
+C:\Users\4039\source\repos\ModbusTest2\ModbusTest2\bin\Debug\net6.0\ModbusTest2.pdb
+C:\Users\4039\source\repos\ModbusTest2\ModbusTest2\bin\Debug\net6.0\NModbus.dll
+C:\Users\4039\source\repos\ModbusTest2\ModbusTest2\obj\Debug\net6.0\ModbusTest2.csproj.AssemblyReference.cache
+C:\Users\4039\source\repos\ModbusTest2\ModbusTest2\obj\Debug\net6.0\ModbusTest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4039\source\repos\ModbusTest2\ModbusTest2\obj\Debug\net6.0\ModbusTest2.AssemblyInfoInputs.cache
+C:\Users\4039\source\repos\ModbusTest2\ModbusTest2\obj\Debug\net6.0\ModbusTest2.AssemblyInfo.cs
+C:\Users\4039\source\repos\ModbusTest2\ModbusTest2\obj\Debug\net6.0\ModbusTest2.csproj.CoreCompileInputs.cache
+C:\Users\4039\source\repos\ModbusTest2\ModbusTest2\obj\Debug\net6.0\ModbusTest2.csproj.CopyComplete
+C:\Users\4039\source\repos\ModbusTest2\ModbusTest2\obj\Debug\net6.0\ModbusTest2.dll
+C:\Users\4039\source\repos\ModbusTest2\ModbusTest2\obj\Debug\net6.0\refint\ModbusTest2.dll
+C:\Users\4039\source\repos\ModbusTest2\ModbusTest2\obj\Debug\net6.0\ModbusTest2.pdb
+C:\Users\4039\source\repos\ModbusTest2\ModbusTest2\obj\Debug\net6.0\ModbusTest2.genruntimeconfig.cache
+C:\Users\4039\source\repos\ModbusTest2\ModbusTest2\obj\Debug\net6.0\ref\ModbusTest2.dll
